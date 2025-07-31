@@ -18,7 +18,7 @@ const Hero = () => {
                   All in One Business Management Platform
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  Simplify your operations with Fintara, the complete SaaS-based Fintara solution that consolidates your business needs into a single, powerful platform. Whether it's accounting, HRM, CRM, project management, POS, or support systems – Fintech has you covered.
+                  Simplify your operations with Fintara, the complete SaaS-based Fintara solution that consolidates your business needs into a single, powerful platform. Whether it&#39;s accounting, HRM, CRM, project management, POS, or support systems – Fintech has you covered.
                 </p>
                 <div className="flex justify-center">
                   <Link
